@@ -26,15 +26,7 @@ Install these with the following command:
 ```bash
 pip install numpy pandas seaborn matplotlib scikit-learn
 ```
-Execution Instructions
-Follow these steps to execute the analysis:
 
-Install Python and the required libraries.
-Download Dietary_Habits_Survey_Data.csv and ensure it is in the same directory as the script files.
-Execute the script analysis.py to start the analysis and see the generated visualizations:
-```python
-python analysis.py
-```
 ## Visualizations
 The analysis script generates various visualizations, including:
 
